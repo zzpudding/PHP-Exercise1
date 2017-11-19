@@ -5,8 +5,7 @@
 **e.g. "Hi, 3 visitors also use chrome."**
 - Save the data into a CSV file.
 - Display all visitors' data in a table with 4 columns.<br>
-&emsp;&emsp;
-<table>
+&emsp;&emsp;<table>
         <tr>
             <th>ID</th>
             <th>Name</th>
