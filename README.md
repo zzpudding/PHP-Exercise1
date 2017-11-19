@@ -8,4 +8,11 @@
 **e.g.** <br>
 | ID | Name | Browser-Type | OS-Type |
 | -- | ---- | ------------ | ------- |
-
+<table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Browser-Type</th>
+            <th>OS-Type</th>
+        </tr>
+</table>
