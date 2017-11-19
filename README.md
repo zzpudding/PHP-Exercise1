@@ -1,4 +1,3 @@
-# PHP Project
 # Functions:
 - Get visitor's informaion: name, browser type and Operating System type.
 - Count the number of total visitors
